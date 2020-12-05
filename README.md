@@ -44,6 +44,6 @@ Yes, see previous. This is intended to be a real-world exercise, not some abstra
 1. Currently these exercises focus on vanilla js, but they will likely be extended to cover React at some point.
 2. It's fast and easy, and I'm dumb and lazy.
 
-**Can I contribute exercise?**
+**Can I contribute an exercise?**
 
 Sure! PRs welcome.
